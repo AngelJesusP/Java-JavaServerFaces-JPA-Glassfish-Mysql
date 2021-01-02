@@ -5,7 +5,7 @@ entre otras, para que funciones deben dejar las la notaciones @Basic y @Column c
 
 <code>
 private static final long serialVersionUID = 1L;<br/>
-@Id<br/>
+@Id
 @Basic(optional = false)<br/>
 @Column(name = "<nombreAtributo>", nullable = false)<br/>
 private Integer <nombreAtributo>;<br/>
