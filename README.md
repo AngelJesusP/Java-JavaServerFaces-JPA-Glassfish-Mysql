@@ -4,7 +4,7 @@ Cuando creen sus Entitys de la base de datos, Haganlo pero una vez creado las cl
 entre otras, para que funciones deben dejar las la notaciones @Basic y @Column con sus respectivos parametros.
 
 <code>
-private static final long serialVersionUID = 1L;<br/>
+private static final long serialVersionUID = 1L;<brbatman eternamente>
 @Id
 @Basic(optional = false)<br/>
 @Column(name = "<nombreAtributo>", nullable = false)<br/>
