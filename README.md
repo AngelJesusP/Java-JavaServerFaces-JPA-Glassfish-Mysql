@@ -1,6 +1,6 @@
 # Java-JavaServerFaces-JPA-Glassfish-Mysql
 
-Cuando creen sus Entitys de la base de datos, Haganlo pero una vez creado las clases deben modificar o borrar las anotaciones, por ejemplo @NotNull
+Cuando creen sus Entitys de la base de datos, Haganlo pero una vez creado las clases deben modificar o borrar las anotaciones, por ejemplo <code> @NotNull </code>
 entre otras, para que funciones deben dejar las la notaciones <code> @Basic </code> y <code> @Column </code> con sus respectivos parametros.
 ```
 private static final long serialVersionUID = 1L;
